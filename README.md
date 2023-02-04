@@ -65,10 +65,13 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 <div align="center">
 <img width="200" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
 <a href="https://github.com/YuriDevAT/sos-animals">
+
 <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
+
 <img width="200" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
-<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+<a href="https://github.com/">
+
 <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
 </a>
 </div>
@@ -80,10 +83,9 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 
 
+<!-- START  -->
 </tr></tr></table> 
-
 <br />
-
 <table><tr><td valign="top" width="50%">
 
 <h2 align="center"> 💼 Languages and Tools</h2>
@@ -102,14 +104,9 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
 </td><td valign="top" width="50%">
-  
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&layout=compact&theme=gruvbox" width="700" /> -->
-  
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
-
-
+<!-- END  -->
 
 
 
