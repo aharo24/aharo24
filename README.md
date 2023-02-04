@@ -102,8 +102,12 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 </td><td valign="top" width="50%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&layout=compact&theme=radical" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&layout=compact&theme=radical" width="700" />
   
+
+
+
+
 </tr></tr></table> 
 
 <br />
