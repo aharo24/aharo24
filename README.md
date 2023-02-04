@@ -116,7 +116,19 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 <br />
 
-<table><tr><td valign="top" width="40%">
+</td><td valign="top" width="50%">
+  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&layout=compact&theme=gruvbox" width="700" /> -->
+  
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
+
+
+
+
+
+</tr></tr></table> 
 
 
 
