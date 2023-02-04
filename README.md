@@ -119,7 +119,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 </a>
 
 <a href="https://github.com//">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+<img align="center" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
 </a>
 </div>
 
