@@ -116,7 +116,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <!-- MID -->
 </td><td valign="top" width="50%">
 <br />
-<br />
+
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=tokyonight" />
 
 
