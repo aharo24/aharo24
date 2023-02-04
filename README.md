@@ -112,13 +112,13 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <!-- MID -->
 </td><td valign="top" width="50%">
 
-<h2 align="center">My favorite projects 💻</h2>
+<h3 align="center">My favorite projects 💻 </h3>
 <br />
 <a href="https://github.com/aharo24/opensource">
 <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+<a href="https://github.com//">
 <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
 </a>
 </div>
