@@ -120,7 +120,9 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 </a>
 
 <a href="https://github.com//">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-vivaldi&theme=tokyonight" />
+<!-- <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-vivaldi&theme=tokyonight" /> -->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=tokyonight" />
+
 </a>
 </div>
 
