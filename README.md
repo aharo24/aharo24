@@ -112,6 +112,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <!-- MID -->
 </td><td valign="top" width="50%">
 
+<div align="center">
 <h3 align="center">My favorite projects 💻 </h3>
 <br />
 <a href="https://github.com/aharo24/opensource">
