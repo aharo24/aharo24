@@ -7,10 +7,12 @@
 <a href="https://disord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
 <a href="https://disord"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://disord"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>&nbsp;
-</div>
-<!-- END -->
-  
+
 <br />
+</div>  
+<!-- END -->
+
+
 
 <!-- START -->
 <table><tr><td valign="top" width="50%">
@@ -103,12 +105,12 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <!-- START  -->
 <div align="center">
 <table><tr><td valign="top" width="55%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=aura_dark" width="700" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=noctis_minimus" width="700" />
 
 <!-- MID -->
 </td><td valign="top" width="45%">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=aura_dark" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=dracula" />
 <img width="400" src="https://github-readme-activity-graph.cyclic.app/graph?username=aharo24&theme=rogue"/>
 </div>
 <!-- END  -->
