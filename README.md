@@ -43,16 +43,6 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <!-- START Point -->
 <table><tr><td valign="top" width="50%">
 <h2 align="center">My favorite projects 💻</h2>
-<br />
-<a href="https://github.com/aharo24/opensource">
-<img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-</a>
-</div>
-
 
 
 
@@ -63,8 +53,6 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 - [alacritty ✅](https://github.com/aharo24/dot-alacritty)
 - [starship ✅](https://github.com/aharo24/dot-starship)
 - [vivaldi  ✅](https://github.com/aharo24/dot-vivaldi)
-
-I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built 
 
 
 </tr></tr></table> 
@@ -124,8 +112,16 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 <!-- MID -->
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
+<h2 align="center">My favorite projects 💻</h2>
+<br />
+<a href="https://github.com/aharo24/opensource">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
+</a>
+</div>
 
 <!-- END  -->
 
