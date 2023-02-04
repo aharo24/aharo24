@@ -87,7 +87,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <h3 align="center">My favorite projects 💻 </h3>
 <br />
 <a href="https://github.com/aharo24/opensource">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=cobalt" />
 </a>
 
 </tr></tr></table> 
@@ -103,7 +103,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <!-- START  -->
 <div align="center">
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=onedark" width="800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=panda" width="800" />
 
 <!-- MID -->
 </td><td valign="top" width="50%">
