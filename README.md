@@ -106,7 +106,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <br/>
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=trasnparent" width="1000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=transparent" width="1000" />
 
 <!-- MID -->
 </td><td valign="top" width="50%">
