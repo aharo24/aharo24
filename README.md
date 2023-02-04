@@ -26,13 +26,10 @@
 <br />
 
 
-- Testing <a href="https://github.com/aharo24">YurisCodingClub</a> Testing
-- [alacritty ✅](https://github.com/aharo24/dot-alacritty)
-- [starship ✅](https://github.com/aharo24/dot-starship)
-- [vivaldi  ✅](https://github.com/aharo24/dot-vivaldi)
+...In addition to my professional pursuits, I am also an open source advocate, committed to sharing my knowledge and expertise with the community. My open source materials, including documentation, code, projects, and resources, cover a range of topics, including machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. All of these materials are freely available for anyone to access, use, modify, and distribute, as long as they adhere to the terms of the open source license. I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.
 
   
-  <div align="center">Beginners are very welcome 😇</div>
+  <div align="center"> ~(-_-)~ </div>
   
 <br />
 
@@ -45,19 +42,16 @@
 <br />
 
 <table><tr><td valign="top" width="40%">
-<h2 align="center"> 📕 Latest Blog Posts</h2>
+<h2 align="center"> Open Source Contributions </h2>
   
-<!-- DEV:START -->
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak VI](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-vi-943)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak V](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-v-2afn)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak IV](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iv-123i)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak III](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-iii-f79)
-- [How To Find A Job With Soft Skills When Coding Skills Are Weak II](https://dev.to/yuridevat/how-to-find-a-job-with-soft-skills-when-coding-skills-are-weak-ii-3ge4)
-<!-- DEV:END -->
 
-... [Read more articles on Dev.To](https://dev.to/yuridevat)
+<!-- START Open Source Ontributions -->
+- [alacritty ✅](https://github.com/aharo24/dot-alacritty)
+- [starship ✅](https://github.com/aharo24/dot-starship)
+- [vivaldi  ✅](https://github.com/aharo24/dot-vivaldi)
 
 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built on Forem 🤝
+<!-- Open Source Ontributions END -->
 
 </td><td valign="top" width="60%">
 
