@@ -114,7 +114,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 </tr></tr></table> 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=onedark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=onedark" width=700/>
 
 <!-- MID -->
 </td><td valign="top" width="50%">
