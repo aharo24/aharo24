@@ -25,7 +25,7 @@
 
 </td><td valign="top" width="50%">
 
-<h3 align="center"> Open Source Adcovate</h3>
+<h2 align="center"> Open Source Adcovate</h2>
 <br />
 
 
@@ -60,7 +60,7 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 </td><td valign="top" width="60%">
 
 
-<h3 align="center">My favorite projects 💻</h3>
+<h2 align="center">My favorite projects 💻</h2>
 <br />
 <div align="center">
 
