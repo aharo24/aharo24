@@ -41,6 +41,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 
 <!-- START Point -->
+<table><tr><td valign="top" width="50%">
 </td><td valign="top" width="50%">
 <h2 align="center">My favorite projects 💻</h2>
 <br />
