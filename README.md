@@ -55,10 +55,10 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built 
 
+
+</td><td valign="top" width="60%">
+
 <!-- Open Source Ontributions END -->
-
-
-
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
