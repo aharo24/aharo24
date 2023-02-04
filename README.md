@@ -102,13 +102,13 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 <!-- START  -->
 <div align="center">
-<table><tr><td valign="top" width="53%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=onedark" width="1000" />
+<table><tr><td valign="top" width="55%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&theme=radical" width="900" />
 
 <!-- MID -->
-</td><td valign="top" width="47%">
+</td><td valign="top" width="45%">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=onedark" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=dracula" />
 <img width="400" src="https://github-readme-activity-graph.cyclic.app/graph?username=aharo24&theme=rogue"/>
 </div>
 <!-- END  -->
