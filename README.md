@@ -64,7 +64,7 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 <br />
 <div align="center">
 
-<a href="https://github.com/YuriDevAT/sos-animals">
+<!-- <a href="https://github.com/YuriDevAT/sos-animals"> -->
 <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
 
