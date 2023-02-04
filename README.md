@@ -57,7 +57,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 
 <!-- MID  -->
-<table><tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 <h2 align="center"> Open Source Contributions </h2>
   
 - [alacritty ✅](https://github.com/aharo24/dot-alacritty)
