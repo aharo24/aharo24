@@ -122,6 +122,7 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 <img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
 
+<br />
 </tr></tr></table> 
 <!-- END  -->
 
