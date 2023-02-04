@@ -78,13 +78,13 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 
 
-<!-- START  -->
 
 </tr></tr></table> 
 
 <br />
 
 <table><tr><td valign="top" width="50%">
+
 <h2 align="center"> 💼 Languages and Tools</h2>
 
 <br />
@@ -108,13 +108,18 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 <img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
 
-<!-- End  -->
 
 
 
-
+<!-- START  -->
 </tr></tr></table> 
 
+<br />
+
+</td><td valign="top" width="50%">
+  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharo24&layout=compact&theme=gruvbox" width="700" /> -->
+  
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
@@ -125,7 +130,7 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 <img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
 
 </tr></tr></table> 
-
+<!-- END  -->
 
 
 
