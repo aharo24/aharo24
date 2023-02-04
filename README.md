@@ -44,8 +44,6 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <table><tr><td valign="top" width="50%">
 <h2 align="center">My favorite projects 💻</h2>
 <br />
-<div align="center">
-
 <a href="https://github.com/aharo24/opensource">
 <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
 </a>
@@ -68,12 +66,9 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built 
 
-<!-- END -->
-
-
 
 </tr></tr></table> 
-
+<!-- END -->
 
 
 
