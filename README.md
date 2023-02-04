@@ -91,7 +91,12 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <!-- MID  -->
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
+<div align="center">
+<h3 align="center">My favorite projects 💻 </h3>
+<br />
+<a href="https://github.com/aharo24/opensource">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
+</a>
 
 </tr></tr></table> 
 <br />
@@ -111,14 +116,6 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 <!-- MID -->
 </td><td valign="top" width="50%">
-
-<div align="center">
-<h3 align="center">My favorite projects 💻 </h3>
-<br />
-<!-- <a href="https://github.com/aharo24/opensource">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
-</a> -->
-
 
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
