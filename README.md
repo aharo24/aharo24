@@ -10,34 +10,30 @@
 </div>
   
 <br />
-<!-- End-->
+<!-- mid-->
 
 <table><tr><td valign="top" width="50%">
   
 <h3 align="center">About me </h3>
 
-- :raising_hand: I am an enthusiastic selftaught frontend developer and accessibility advocate since 2020
-- :muscle: I am currently helping others to get into tech too by creating content, blog posts and open source projects
-- :speech_balloon: Ask me about anything related to accessibility. I am happy to help
-- 🏆 Top 5 (out of over 400) at <a href="https://townhall.hashnode.com/4articles4weeks-writeathon-the-winners">Hashnode Writeathon 4 articles 4 weeks</a>. Check out <a href="https://yuridevat.hashnode.dev/tag/4articles4weeks">my articles for this Challenge</a>
-- :ghost: Fun fact: I studied Musicology and Japanese studies, but I switched careers in my 30s and learned coding all by myself
-
+A driven and ambitious young computer scientist, I am determined to push the boundaries of what is possible in the field and explore the mysteries of quantum computing and shed light on the fundamental behaviors of our universe. With a keen interest in machine-learning, hacking, and software architect, I am eager to apply my skills and knowledge to make a lasting impact in the world. Despite my poor upbringing and facing challenges in my early career, I am now focused on reviving my enthusiasm for technology and achieving recognition in the field. "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” ~ Albert Einstein
 
 </td><td valign="top" width="50%">
 
-<h2 align="center"> Open Source Adcovate</h2>
+<h3 align="center"> Open source advocate </h2>
 <br />
 
 
 In addition to my professional pursuits, I am also an open source advocate, committed to sharing my knowledge and expertise with the community. My open source materials, including documentation, code, projects, and resources, cover a range of topics, including machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. All of these materials are freely available for anyone to access, use, modify, and distribute, as long as they adhere to the terms of the open source license. I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.
 
   
-  <div align="center"> <a href="https://github.com/aharo24/opensource">💻 </a> </div>
+  <div align="center"> <a href="https://github.com/aharo24/opensource"> contributions 👨‍💻 </a> </div>
   
-<br />
 
 
 </tr></tr></table> 
+<!-- END -->
+
 
 <br />
 <br />
