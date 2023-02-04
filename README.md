@@ -111,7 +111,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=onedark" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=dracula" width="500" /> -->
-<img width="500" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula"/>
+<img width="500" src="https://github-readme-activity-graph.cyclic.app/graph?username=aharo24&theme=dracula"/>
 
 </div>
 <!-- END  -->
