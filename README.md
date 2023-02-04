@@ -61,7 +61,7 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 
 <h2 align="center">My favorite projects 💻</h2>
-<br />
+
 <div align="center">
 
 <a href="https://github.com/aharo24/opensource">
