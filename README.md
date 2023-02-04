@@ -69,14 +69,9 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 
 <a href="https://github.com/YuriDevAT/sos-animals">
-
-
-</a>
-
-
-<a href="https://github.com/">
 <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
 </a>
+
 </div>
 
 </tr></tr></table> 
