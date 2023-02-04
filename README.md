@@ -115,9 +115,12 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 <!-- MID -->
 </td><td valign="top" width="50%">
-
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=tokyonight" />
 <br />
+<br />
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=tokyonight" />
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
 
 </div>
