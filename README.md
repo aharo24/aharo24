@@ -119,11 +119,10 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
 </a>
 
-<a href="https://github.com//">
-<!-- <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-vivaldi&theme=tokyonight" /> -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=tokyonight" />
 
-</a>
+<img width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=aharo24&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
+
 </div>
 
 <!-- END  -->
