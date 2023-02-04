@@ -60,7 +60,7 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 </td><td valign="top" width="60%">
 
 
-<<h2 align="center">My favorite projects 💻</h2>
+<h2 align="center">My favorite projects 💻</h2>
 <br />
 <div align="center">
 
