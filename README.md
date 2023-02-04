@@ -43,7 +43,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <br />
 
 <!-- START Open Source Ontributions -->
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="50%">
 <h2 align="center"> Open Source Contributions </h2>
   
 - [alacritty ✅](https://github.com/aharo24/dot-alacritty)
@@ -53,9 +53,9 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a> built 
 
 
-</td><td valign="top" width="60%">
+</td><td valign="top" width="50%">
 
-<!-- Open Source Ontributions END -->
+<!-- Mid Point -->
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
@@ -71,6 +71,8 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 </div>
 
 </tr></tr></table> 
+
+<!-- END Point -->
 
 
 
