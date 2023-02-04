@@ -64,7 +64,7 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 <br />
 <div align="center">
 
-<a href="https://github.com/aharo/opensource">
+<a href="https://github.com/aharo24/opensource">
 <img width="220" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=tokyonight" />
 </a>
 
