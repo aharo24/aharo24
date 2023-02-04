@@ -118,7 +118,7 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aharo24&show_icons=true&theme=onedark" width="700" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" width="700" />
 
 <!-- END  -->
 
