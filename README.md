@@ -111,10 +111,9 @@ I have been granted "trusted" user on <a href="https://dev.to/">DEV Community</a
 
 
 
-<!-- START  -->
-</tr></tr></table> 
 
-<br />
+
+<!-- START  -->
 
 </td><td valign="top" width="50%">
   
