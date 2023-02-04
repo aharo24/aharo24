@@ -40,15 +40,12 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 </tr></tr></table> 
 
 <br />
-
-
 <br />
 
+<!-- START Open Source Ontributions -->
 <table><tr><td valign="top" width="40%">
 <h2 align="center"> Open Source Contributions </h2>
   
-
-<!-- START Open Source Ontributions -->
 - [alacritty ✅](https://github.com/aharo24/dot-alacritty)
 - [starship ✅](https://github.com/aharo24/dot-starship)
 - [vivaldi  ✅](https://github.com/aharo24/dot-vivaldi)
