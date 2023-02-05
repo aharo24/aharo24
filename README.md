@@ -22,7 +22,7 @@
 physical activities: 
   - gymg, soccer, boxing, skateboarding
 
-- anime enthusiast:
+anime enthusiast:
   - vinland, fma, aot, demon slayer, psycho-pass
 
 video game enthusiast: 
@@ -30,7 +30,7 @@ video game enthusiast:
   - top 1 percent in pubg
   - first person shooter average [k/d] 2.43
 
-- editor:
+editor:
   - photoshop, sony vegas pro, elgato, obs, youtube
 
 <!-- MID -->
