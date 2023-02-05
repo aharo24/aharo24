@@ -43,6 +43,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <!-- START  -->
 <table><tr><td valign="top" width="50%">
 <h3 align="center"> active contributions </h3>
+
 ### [alacritty ✅](https://github.com/aharo24/dot-alacritty) 
 ...Alacritty configuration, optimized for speed and efficiency. I've spent countless hours tweaking and fine-tuning.
 
