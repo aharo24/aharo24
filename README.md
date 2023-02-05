@@ -45,7 +45,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <h3 align="center"> active contributions </h3>
   
 - [alacritty ✅](https://github.com/aharo24/dot-alacritty)
-...Alacritty configuration, optimized for speed and efficiency. I've spent countless hours tweaking and fine-tuning.
+  - ...Alacritty configuration, optimized for speed and efficiency. I've spent countless hours tweaking and fine-tuning.
 
 - [starship ✅](https://github.com/aharo24/dot-starship)
 ...Hours of research on color theory and what hues stimulate the eyes, and hand-picked hacked icons.
