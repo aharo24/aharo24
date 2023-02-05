@@ -47,8 +47,13 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 <a href="https://github.com/aharo24/opensource">
 <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=cobalt" />
-style=“display: block; margin-left: auto;margin-right: auto;">
+
 </a>
+
+<a href="https://github.com/aharo24/opensource">
+  <img style="display: block; margin: 0 auto;" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=cobalt" />
+</a>
+
 
 
 ### [starship ✅](https://github.com/aharo24/dot-starship)
