@@ -24,7 +24,7 @@ A driven and ambitious young computer scientist, I am determined to push the bou
 
 <!-- MID -->
 </td><td valign="top" width="50%">
-<h3 align="center"> opensource advocate </h2>
+<h3 align="center"> opensource advocate <a href="https://github.com/aharo24/opensource"> contributions 👨‍💻 </a> </h2>
 
 In addition to my professional pursuits, I am also an open source advocate, committed to sharing my knowledge and expertise with the community. My open source materials, including documentation, code, projects, and resources, cover a range of topics, including machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. All of these materials are freely available for anyone to access, use, modify, and distribute, as long as they adhere to the terms of the open source license. I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.
 
