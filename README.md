@@ -19,10 +19,10 @@
 <table><tr><td valign="top" width="50%">
 <h3 align="center"> about me </h3>
 
-### physical activities: 
+#### physical activities: 
 - gymg, soccer, boxing, skateboarding
 
-### anime enthusiast:
+##### anime enthusiast:
 - vinland, fma, aot, demon slayer,psycho-pass
 
 ### video game enthusiast: 
