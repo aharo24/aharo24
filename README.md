@@ -85,10 +85,10 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 - This tool ensures that all links remain functional, even if the file structure of your repository changes. With the Universal Markdown Linker, you no longer have to manually search for links, saving you time and effort.
 
 <p align="center">
-<a href="https://github.com/aharo24/universal-markdownl-linker">
+<a href="https://github.com/aharo24/universal-markdown-linker">
   <img style="display: block; margin: 0 auto;" 
   width="230"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=universal-markdownl-linker&theme=onedark" />
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=universal-markdown-linker&theme=onedark" />
 </a>
 </p>
 
