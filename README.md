@@ -20,13 +20,13 @@
 <h3 align="center"> about me </h3>
 
 physical activities: 
-  - gymg, soccer, boxing, skateboarding
+  - gym, soccer, boxing, skateboarding
 
 anime enthusiast:
   - vinland, fma, aot, demon slayer, psycho-pass
 
 video game enthusiast: 
-  - regional professional fifa 17 | 19 | 21
+  - regional pro player for FIFA: 17 | 19 | 21
   - top 13 % in COD, top 5 % in warzone, top 1 % in pubg
   - first person shooter kill-to-death ratio 2.43
 
