@@ -94,7 +94,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 
 
-
+--- 
   <div align="center"> <a href="https://github.com/aharo24/opensource#dotfiles"> slowly merging all dotfiles/configs </a> </div>
 </tr></tr></table> 
 <!-- END -->
