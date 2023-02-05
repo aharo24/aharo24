@@ -44,13 +44,17 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 ### [alacritty ✅](https://github.com/aharo24/dot-alacritty) 
 - I have devoted numerous hours to optimizing my Alacritty configuration for maximum speed and efficiency. Through thorough experimentation and fine-tuning, I have crafted a setup that prioritizes speed and reliability.
 
-<div style="width:100%; display:flex; justify-content: center; align-items: center;">
-<a href="https://github.com/aharo24/dot-alacritty">
+
+<!-- <a href="https://github.com/aharo24/dot-alacritty">
 <img width="250" 
 src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=cobalt" 
-class="center"/>
+class="center"/></a> -->
+
+
+<a href="https://github.com/aharo24/dot-alacritty">
+  <img style="display: block; margin: 0 auto;" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=cobalt">
 </a>
-</div>
+
 
 ### [starship ✅](https://github.com/aharo24/dot-starship)
 - I have put in substantial effort into creating a unique and visually appealing starship configuration. My research into color theory and eye-stimulating hues has helped me to carefully select a color scheme, as well as handpick icons that complement the overall design.
