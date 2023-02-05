@@ -61,7 +61,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <p align="center">
 <a href="https://github.com/aharo24/opensource">
   <img style="display: block; margin: 0 auto;" 
-  width="300"
+  width="200"
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=onedark" />
 </a>
 </p>
@@ -74,7 +74,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <p align="center">
 <a href="https://github.com/aharo24/opensource">
   <img style="display: block; margin: 0 auto;" 
-  width="350"
+  width="150"
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=onedark" />
 </a>
 </p>
