@@ -37,7 +37,6 @@ editor:
 </td><td valign="top" width="50%">
 <h3 align="center"> <a href="https://github.com/aharo24/opensource"> opensource advocate </a> </h2>
 <br/>
-<br/>
 
 - An open source advocate, committed to sharing my knowledge and expertise with the community. 
 
@@ -45,6 +44,7 @@ editor:
 
 - I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
 
+<br/>
 </tr></tr></table> 
 <!-- END -->
 
