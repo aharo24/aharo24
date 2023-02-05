@@ -7,6 +7,7 @@
 <a href="https://twitter.com/aharo24"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/aharo24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://leetcode.com/aharo24/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>&nbsp;
+<br/>
 </div>  
 <!-- END -->
 
@@ -42,7 +43,9 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 ### [alacritty ✅](https://github.com/aharo24/dot-alacritty) 
 - I have devoted numerous hours to optimizing my Alacritty configuration for maximum speed and efficiency. Through thorough experimentation and fine-tuning, I have crafted a setup that prioritizes speed and reliability.
-
+<a href="https://github.com/aharo24/dot-alacritty">
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=cobalt" />
+</a>
 
 ### [starship ✅](https://github.com/aharo24/dot-starship)
 - I have put in substantial effort into creating a unique and visually appealing starship configuration. My research into color theory and eye-stimulating hues has helped me to carefully select a color scheme, as well as handpick icons that complement the overall design.
