@@ -46,7 +46,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 <div style="text-align:center;">
 <a href="https://github.com/aharo24/dot-alacritty">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=cobalt" />
+<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=cobalt" class="center"/>
 </a>
 </div>
 
