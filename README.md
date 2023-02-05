@@ -45,16 +45,12 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 - I have devoted numerous hours to optimizing my Alacritty configuration for maximum speed and efficiency. Through thorough experimentation and fine-tuning, I have crafted a setup that prioritizes speed and reliability.
 
 
-<a href="https://github.com/aharo24/opensource">
-<img width="250" align="center"
-src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=cobalt" />
-</a>
 
-<!-- <a href="https://github.com/aharo24/opensource">
+<a href="https://github.com/aharo24/opensource">
   <img style="display: block; margin: 0 auto;" 
   width="250"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=cobalt" />
-</a> -->
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=onedark" />
+</a>
 
 
 
