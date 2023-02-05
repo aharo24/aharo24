@@ -40,7 +40,9 @@ editor:
 
 - An open source advocate, committed to sharing my knowledge and expertise with the community. 
 
-- My open source materials, including documentation, code, projects, and resources, cover a range of topics, including machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. 
+- My open source materials, including documentation, code, projects, and resources, cover a range of topics. 
+
+- Also includes machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. 
 
 - I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
 
