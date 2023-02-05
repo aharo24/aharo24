@@ -45,17 +45,18 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <h3 align="center"> active contributions </h3>
 
 ### [alacritty ✅](https://github.com/aharo24/dot-alacritty) 
-...Alacritty configuration, optimized for speed and efficiency. I've spent countless hours tweaking and fine-tuning.
+- Alacritty configuration, optimized for speed and efficiency. I've spent countless hours tweaking and fine-tuning.
 
 ### [starship ✅](https://github.com/aharo24/dot-starship)
-...Hours of research on color theory and what hues stimulate the eyes, and hand-picked hacked icons.
+- Hours of research on color theory and what hues stimulate the eyes, and hand-picked hacked icons.
 
 ### [vivaldi ✅](https://github.com/aharo24/dot-vivaldi)
-...I've included a list of custom hotkeys, including shortcuts for the panel, window, dev, and tabs. Detail color combinations to stimulate long hours of docs/coding/dev.
+- I've included a list of custom hotkeys, including shortcuts for the panel, window, dev, and tabs. Detail color combinations to stimulate long hours of docs/coding/dev.
 
 ### [universal markdown linker ✅](https://github.com/aharo24/universal-markdown-linker)
-- #### This tool was developed and is maintained by [Angel Haro](https://www.linkedin.com/in/aharo24/), the founder of Universal Markdown Linker.
-...Developed an open-source Python script that makes it easy to keep markdown files organized and error-free. The script eliminates the need for manual searching and guarantees that all links will work, even if the file structure of your repository changes.
+- ### This tool was developed and is maintained by [Angel Haro](https://www.linkedin.com/in/aharo24/), the founder of Universal Markdown Linker.
+a
+- Developed an open-source Python script that makes it easy to keep markdown files organized and error-free. The script eliminates the need for manual searching and guarantees that all links will work, even if the file structure of your repository changes.
 
 
 </tr></tr></table> 
