@@ -48,7 +48,7 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 <p align="center">
 <a href="https://github.com/aharo24/opensource">
   <img style="display: block; margin: 0 auto;" 
-  width="250"
+  width="400"
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=onedark" />
 </a>
 </p>
@@ -58,12 +58,26 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 ### [starship ✅](https://github.com/aharo24/dot-starship)
 - I have put in substantial effort into creating a unique and visually appealing starship configuration. My research into color theory and eye-stimulating hues has helped me to carefully select a color scheme, as well as handpick icons that complement the overall design.
 
+<p align="center">
+<a href="https://github.com/aharo24/opensource">
+  <img style="display: block; margin: 0 auto;" 
+  width="500"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=onedark" />
+</a>
+</p>
 
 ### [vivaldi ✅](https://github.com/aharo24/dot-vivaldi)
 - My Vivaldi configuration includes a comprehensive list of custom hotkeys, designed to make your browsing experience more efficient and intuitive. I have included shortcuts for a wide range of actions, including panel navigation, window management, dev tools, and tabs. I have also taken the time to carefully choose color combinations that will not strain your eyes during long coding or document editing sessions.
 
 - [official vivadi theme contribution](https://themes.vivaldi.net/themes/nV6vpPxDvdN)
 
+<p align="center">
+<a href="https://github.com/aharo24/opensource">
+  <img style="display: block; margin: 0 auto;" 
+  width="600"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=onedark" />
+</a>
+</p>
 
 ### [universal markdown linker ✅](https://github.com/aharo24/universal-markdown-linker)
 - As the [founder](https://www.linkedin.com/in/aharo24/) of Universal Markdown Linker, I have developed and maintained an open-source Python script that streamlines the process of organizing markdown files. 
