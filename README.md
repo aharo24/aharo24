@@ -109,36 +109,6 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 
 
-
-<!-- START  -->
-</tr></tr></table> 
-<br />
-<table><tr><td valign="top" width="50%">
-
-<h3 align="center"> 💼 Languages and Tools</h3>
-
-<br />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-
-<!-- MID  -->
-</td><td valign="top" width="50%">
-
-<div align="center">
-<h3 align="center">My favorite projects 💻 </h3>
-<br />
-<a href="https://github.com/aharo24/opensource">
-<img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=cobalt" />
-</a>
-
-</tr></tr></table> 
-<!-- END -->
-
-
-
-
-
 <!-- START  -->
 <div align="center">
 <table><tr><td valign="top" width="55%">
