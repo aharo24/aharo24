@@ -19,14 +19,23 @@
 <table><tr><td valign="top" width="50%">
 <h3 align="center"> about me </h3>
 
-A driven and ambitious young computer scientist, I am determined to push the boundaries of what is possible in the field and explore the mysteries of quantum computing and shed light on the fundamental behaviors of our universe. With a keen interest in machine-learning, hacking, and software architect, I am eager to apply my skills and knowledge to make a lasting impact in the world. Despite my poor upbringing and facing challenges in my early career, I am now focused on reviving my enthusiasm for technology and achieving recognition in the field. "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” ~ Albert Einstein
+- physical activities: gymg, soccer, boxing, skateboarding
+
+- anime enthusiast:vinland, fma, aot, demon slayer,psycho-pass
+
+- video game enthusiast: regional professional fifa 17 | 19 | 21, fps average 2.43 kd. 
+
+- editor: photoshop, sony vegas pro, elgato, obs, youtube
 
 <!-- MID -->
 </td><td valign="top" width="50%">
 <h3 align="center"> <a href="https://github.com/aharo24/opensource"> opensource advocate </a> </h2>
 
-In addition to my professional pursuits, I am also an open source advocate, committed to sharing my knowledge and expertise with the community. My open source materials, including documentation, code, projects, and resources, cover a range of topics, including machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. All of these materials are freely available for anyone to access, use, modify, and distribute, as long as they adhere to the terms of the open source license. I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
+- An open source advocate, committed to sharing my knowledge and expertise with the community. 
 
+- My open source materials, including documentation, code, projects, and resources, cover a range of topics, including machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. 
+
+- I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
 
 </tr></tr></table> 
 <!-- END -->
