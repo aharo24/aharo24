@@ -26,7 +26,8 @@
   - vinland, fma, aot, demon slayer,psycho-pass
 
 - video game enthusiast: 
-  - regional professional fifa 17 | 19 | 21, fps average 2.43 kd. 
+  - regional professional fifa 17 | 19 | 21
+    - first person shooter average KD --> 2.43
 
 - editor:
   - photoshop, sony vegas pro, elgato, obs, youtube
