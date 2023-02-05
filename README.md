@@ -3,8 +3,8 @@
 <!-- START  -->
 <div align="center">
 <a href="gasfasf"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="https://twitter.com/aharo24"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://disord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
+<a href="https://twitter.com/aharo24"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://disord"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://disord"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>&nbsp;
 
@@ -26,10 +26,7 @@ A driven and ambitious young computer scientist, I am determined to push the bou
 </td><td valign="top" width="50%">
 <h3 align="center"> <a href="https://github.com/aharo24/opensource"> opensource advocate </a> </h2>
 
-In addition to my professional pursuits, I am also an open source advocate, committed to sharing my knowledge and expertise with the community. My open source materials, including documentation, code, projects, and resources, cover a range of topics, including machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. All of these materials are freely available for anyone to access, use, modify, and distribute, as long as they adhere to the terms of the open source license. I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.
-
-  <div align="center"> <a href="https://github.com/aharo24/opensource"> sampler for now </a> </div>
-  
+In addition to my professional pursuits, I am also an open source advocate, committed to sharing my knowledge and expertise with the community. My open source materials, including documentation, code, projects, and resources, cover a range of topics, including machine learning, deep learning, hacking, multi-modular use, frameworks, data structures, algorithms, and more. All of these materials are freely available for anyone to access, use, modify, and distribute, as long as they adhere to the terms of the open source license. I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
 </tr></tr></table> 
 <!-- END -->
 
@@ -55,6 +52,8 @@ In addition to my professional pursuits, I am also an open source advocate, comm
 
 ### [vivaldi ✅](https://github.com/aharo24/dot-vivaldi)
 - My Vivaldi configuration includes a comprehensive list of custom hotkeys, designed to make your browsing experience more efficient and intuitive. I have included shortcuts for a wide range of actions, including panel navigation, window management, dev tools, and tabs. I have also taken the time to carefully choose color combinations that will not strain your eyes during long coding or document editing sessions.
+
+- [official vivadi theme contribution](https://themes.vivaldi.net/themes/nV6vpPxDvdN)
 
 
 ### [universal markdown linker ✅](https://github.com/aharo24/universal-markdown-linker)
