@@ -20,17 +20,17 @@
 <h3 align="center"> about me </h3>
 
 - physical activities: 
-  - gymg, soccer, boxing, skateboarding
+    - gymg, soccer, boxing, skateboarding
 
 - anime enthusiast:
-  - vinland, fma, aot, demon slayer,psycho-pass
+    - vinland, fma, aot, demon slayer,psycho-pass
 
 - video game enthusiast: 
-  - regional professional fifa 17 | 19 | 21
-    - first person shooter average KD --> 2.43
+    - regional professional fifa 17 | 19 | 21
+      - first person shooter average KD --> 2.43
 
 - editor:
-  - photoshop, sony vegas pro, elgato, obs, youtube
+    - photoshop, sony vegas pro, elgato, obs, youtube
 
 <!-- MID -->
 </td><td valign="top" width="50%">
