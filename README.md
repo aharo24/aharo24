@@ -19,13 +19,13 @@
 <table><tr><td valign="top" width="50%">
 <h3 align="center"> about me </h3>
 
-- physical activities: 
+physical activities: 
   - gymg, soccer, boxing, skateboarding
 
 - anime enthusiast:
   - vinland, fma, aot, demon slayer, psycho-pass
 
-- video game enthusiast: 
+video game enthusiast: 
   - regional professional fifa 17 | 19 | 21
   - top 1 percent in pubg
   - first person shooter average [k/d] 2.43
