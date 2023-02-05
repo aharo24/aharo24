@@ -22,13 +22,13 @@
 #### physical activities: 
 - gymg, soccer, boxing, skateboarding
 
-##### anime enthusiast:
+#### anime enthusiast:
 - vinland, fma, aot, demon slayer,psycho-pass
 
-### video game enthusiast: 
+#### video game enthusiast: 
 regional professional fifa 17 | 19 | 21, fps average 2.43 kd. 
 
-### editor:
+#### editor:
  photoshop, sony vegas pro, elgato, obs, youtube
 
 <!-- MID -->
