@@ -27,8 +27,8 @@ anime enthusiast:
 
 video game enthusiast: 
   - regional professional fifa 17 | 19 | 21
-  - top 1 percent in pubg
-  - first person shooter average [k/d] 2.43
+  - top 13 % in COD, top 5 % in warzone, top 1 % in pubg
+  - first person shooter kill-to-death ratio 2.43
 
 editor:
   - photoshop, sony vegas pro, elgato, obs, youtube
