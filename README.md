@@ -109,7 +109,7 @@ editor:
 </a>
 </p>
 
-### [universal markdown linker ✅](https://github.com/aharo24/universal-markdown-linker)
+### [linksage ✅](https://github.com/aharo24/universal-markdown-linker)
 - As the [founder](https://www.linkedin.com/in/aharo24/) of Universal Markdown Linker, I have developed and maintained an open-source Python script that streamlines the process of organizing markdown files. 
 
 - This tool ensures that all links remain functional, even if the file structure of your repository changes. With the Universal Markdown Linker, you no longer have to manually search for links, saving you time and effort.
