@@ -36,8 +36,6 @@ editor:
 <!-- MID -->
 </td><td valign="top" width="50%">
 <h3 align="center"> <a href="https://github.com/aharo24/opensource"> opensource advocate </a> </h2>
-<br/>
-
 - An open source advocate, committed to sharing my knowledge and expertise with the community. 
 
 - My open source materials, including documentation, code, projects, and resources, cover a range of topics. 
@@ -46,7 +44,14 @@ editor:
 
 - I am excited to contribute to the growth of the open source movement and help others learn and grow in their own careers.  
 
-<br/>
+<p align="center">
+<a href="https://github.com/aharo24/opensource">
+  <img style="display: block; margin: 0 auto;" 
+  width="230"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=opensource&theme=onedark" />
+</a>
+</p>
+
 </tr></tr></table> 
 <!-- END -->
 
