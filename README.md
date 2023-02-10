@@ -141,7 +141,7 @@ editor:
 
 
 --- 
-  <h2 align="center"> <a href="https://github.com/aharo24/opensource#dotfiles"> slowly merging all dotfiles/configs </a> </h2>
+  <h3 align="center"> <a href="https://github.com/aharo24/opensource#dotfiles"> slowly merging all dotfiles/configs </a> </h3>
   <br/>
 </tr></tr></table> 
 <!-- END -->
