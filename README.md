@@ -157,7 +157,7 @@ editor:
 
 
 <!-- START -->
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="80%">
 <h2 align="center"><a href="https://github.com/aharo24"> machine learning </a> </h2>
 
 ### [my notes](https://github.com/aharo24/opensource/tree/main/machine-learning)
@@ -169,7 +169,7 @@ editor:
 ### predict value of home project 
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="20%">
 <h2 align="center"> <a href="https://github.com/aharo24/opensource/tree/main/dotfiles"> 
 dot-files </a> </h2>
 
