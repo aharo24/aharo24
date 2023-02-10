@@ -23,7 +23,7 @@
 
 <!-- START -->
 <table><tr><td valign="top" width="50%">
-<h3 align="center"> about me </h3>
+<h2 align="center"> about me </h2>
 
 physical activities: 
   - gym, soccer, boxing, skateboarding
@@ -39,9 +39,10 @@ video game enthusiast:
 editor:
   - photoshop, sony vegas pro, elgato, obs, youtube
 
+
 <!-- MID -->
 </td><td valign="top" width="50%">
-<h3 align="center"> <a href="https://github.com/aharo24/opensource"> opensource advocate </a> </h2>
+<h2 align="center"> <a href="https://github.com/aharo24/opensource"> opensource advocate </a> </h2>
 
 - An open source advocate, committed to sharing my knowledge and expertise with the community. 
 
@@ -156,7 +157,6 @@ editor:
 
 
 <!-- START -->
-<br/>
 <table><tr><td valign="top" width="50%">
 <h2 align="center"><a href="https://github.com/aharo24"> machine learning </a> </h2>
 
