@@ -88,7 +88,7 @@ editor:
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-alacritty">
-  <img style="display: block; margin: 0 auto;" height=100, width=100
+  <img style="display: block; margin: 0 auto;"
    src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=onedark" />
 </a>
 </p>
@@ -134,7 +134,6 @@ editor:
 <p align="center">
 <a href="https://github.com/aharo24/universal-markdown-linker">
   <img style="display: block; margin: 0 auto;" 
-  width="230"
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=universal-markdown-linker&theme=onedark" />
 </a>
 </p>
