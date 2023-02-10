@@ -160,7 +160,7 @@ editor:
 <table><tr><td valign="top" >
 <h2 align="center"><a href="https://github.com/aharo24"> machine learning </a> </h2>
 
-<h3 align="center"> - Over 8,000 lines of markdown notes on machine learning, covering various topics including supervised and unsupervised learning, deep learning, reinforcement learning, and more... </h3>
+<h3 align="center"> Over 8,000 lines of markdown notes on machine learning, covering various topics including supervised and unsupervised learning, deep learning, reinforcement learning, and more... </h3>
 
 
 <h2 align="center"> <a href="https://github.com/aharo24/opensource/tree/main/machine-learning"> my notes  </a> </h2>
