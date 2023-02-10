@@ -87,9 +87,7 @@ editor:
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-alacritty">
-  <img style="display: block; margin: 0 auto;" 
-
-  src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=onedark" />
+  <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=onedark" />
 </a>
 </p>
 
@@ -101,7 +99,6 @@ editor:
 <p align="center">
 <a href="https://github.com/aharo24/dot-starship">
   <img style="display: block; margin: 0 auto;" 
-
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-starship&theme=onedark" />
 </a>
 </p>
@@ -112,13 +109,12 @@ editor:
 - My Vivaldi configuration includes a comprehensive list of custom hotkeys, designed to make your browsing experience more efficient and intuitive. I have included shortcuts for a wide range of actions, including panel navigation, window management, dev tools, and tabs. I have also taken the time to carefully choose color combinations that will not strain your eyes during long coding or document editing sessions.
 
 
-<h3 align="center"> <a href="https://themes.vivaldi.net/themes/nV6vpPxDvdN"> official vivadi contribution </a> </h3>
+<h3 align="center"> <a href="https://themes.vivaldi.net/themes/nV6vpPxDvdN"> official vivadi contribution  </a> </h3>
 
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-vivaldi">
   <img style="display: block; margin: 0 auto;" 
-  width="230"
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-vivaldi&theme=onedark" />
 </a>
 </p>
