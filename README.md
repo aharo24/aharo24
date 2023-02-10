@@ -157,41 +157,22 @@ editor:
 
 
 <!-- START -->
-<table><tr><td valign="top" width="80%">
+<table><tr><td valign="top" width="50%">
 <h2 align="center"><a href="https://github.com/aharo24"> machine learning </a> </h2>
 
+---
 ### [my notes](https://github.com/aharo24/opensource/tree/main/machine-learning)
 
+---
 ### [my jupyternotebook](https://github.com/aharo24/machine-learning-jupyternotebook)
 
+---
 ### [capstone project](https://github.com/aharo24/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
 
+---
 ### predict value of home project 
 
-
-</td><td valign="top" width="20%">
-<h2 align="center"> <a href="https://github.com/aharo24/opensource/tree/main/dotfiles"> 
-dot-files </a> </h2>
-
-- [alacritty ✅](https://github.com/aharo24/dot-alacritty)
-- done
-- exa
-- fish-abbreviation-tips
-- fish
-- flameshot
-- keycastr 
-- obsidian
-- raycast
-- rectangle
-- spunge
-- [starship ✅](https://github.com/aharo24/dot-starship)
-- sublime
-- [vivaldi  ✅](https://github.com/aharo24/dot-vivaldi)
-- tmux
-- z
-
-
-</tr></table> 
+</</tr></table> 
 <!-- END -->
 
 
