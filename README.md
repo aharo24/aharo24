@@ -191,7 +191,7 @@ dot-files </a> </h2>
 - z
 
 
-</tr></tr></table> 
+</tr></table> 
 <!-- END -->
 
 
