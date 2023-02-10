@@ -18,6 +18,9 @@
 
 
 
+
+
+
 <!-- START -->
 <table><tr><td valign="top" width="50%">
 <h3 align="center"> about me </h3>
@@ -66,12 +69,18 @@ editor:
 
 
 
+
+
+
+
+
+
 <!-- START  -->
 <table><tr><td valign="top" width="50%">
-<h3 align="center"> active contributions </h3>
+<h2 align="center"> <a href="https://github.com/aharo24"> active contributions </a> </h2>
 
 
-### [alacritty ✅](https://github.com/aharo24/dot-alacritty) 
+<h3 align="center"> <a href="https://github.com/aharo24/dot-alacritty"> alacritty ✅ </a> </h3>
 - I have devoted numerous hours to optimizing my Alacritty configuration for maximum speed and efficiency. Through thorough experimentation and fine-tuning, I have crafted a setup that prioritizes speed and reliability.
 
 
@@ -85,7 +94,8 @@ editor:
 
 
 
-### [starship ✅](https://github.com/aharo24/dot-starship)
+---
+<h3 align="center"> <a href="https://github.com/aharo24/dot-starship"> starship ✅ </a> </h3>
 - I have put in substantial effort into creating a unique and visually appealing starship configuration. My research into color theory and eye-stimulating hues has helped me to carefully select a color scheme, as well as handpick icons that complement the overall design.
 
 <p align="center">
@@ -96,7 +106,7 @@ editor:
 </a>
 </p>
 
-### [vivaldi ✅](https://github.com/aharo24/dot-vivaldi)
+<h3 align="center"> <a href="https://github.com/aharo24/dot-vivaldi"> vivaldi ✅ </a> </h3>
 - My Vivaldi configuration includes a comprehensive list of custom hotkeys, designed to make your browsing experience more efficient and intuitive. I have included shortcuts for a wide range of actions, including panel navigation, window management, dev tools, and tabs. I have also taken the time to carefully choose color combinations that will not strain your eyes during long coding or document editing sessions.
 
 - [official vivadi theme contribution](https://themes.vivaldi.net/themes/nV6vpPxDvdN)
@@ -109,7 +119,9 @@ editor:
 </a>
 </p>
 
-### [linksage ✅](https://github.com/aharo24/universal-markdown-linker)
+---
+<h3 align="center"> <a href="https://github.com/aharo24/aharo24/universal-markdown-linker"> linksage ⏳ </a> </h3>
+
 - As the [founder](https://www.linkedin.com/in/aharo24/) of Universal Markdown Linker, I have developed and maintained an open-source Python script that streamlines the process of organizing markdown files. 
 
 - This tool ensures that all links remain functional, even if the file structure of your repository changes. With the Universal Markdown Linker, you no longer have to manually search for links, saving you time and effort.
@@ -128,6 +140,13 @@ editor:
   <div align="center"> <a href="https://github.com/aharo24/opensource#dotfiles"> slowly merging all dotfiles/configs </a> </div>
 </tr></tr></table> 
 <!-- END -->
+
+
+
+
+
+
+
 
 
 
