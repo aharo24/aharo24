@@ -88,7 +88,7 @@ editor:
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-alacritty">
-  <img style="display: block; margin: 0 auto;"
+  <img style="display: block; margin: 0 auto;" width="250"
    src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=onedark" />
 </a>
 </p>
