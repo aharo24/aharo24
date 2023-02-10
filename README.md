@@ -172,7 +172,7 @@ editor:
 ---
 ### predict value of home project 
 
-</</tr></table> 
+</tr></table> 
 <!-- END -->
 
 
