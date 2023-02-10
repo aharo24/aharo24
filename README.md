@@ -163,15 +163,14 @@ editor:
 <h3 align="center"> Over 8,000 lines of markdown notes on machine learning, covering various topics including supervised and unsupervised learning, deep learning, reinforcement learning, and more... </h3>
 
 
-## [my notes](https://github.com/aharo24/opensource/tree/main/machine-learning)
+<h3 align="center"> <a href="https://github.com/aharo24/opensource/tree/main/machine-learning"> my notes  </a> </h3>
 
 
-## [my jupyternotebook](https://github.com/aharo24/machine-learning-jupyternotebook)
+<h3 align="center"> <a href="https://github.com/aharo24/machine-learning-jupyternotebook"> my jupyternotebook  </a> </h3>
 
-## [capstone project](https://github.com/aharo24/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb)
 
----
-### predict value of home project 
+<h3 align="center"> <a href="https://github.com/aharo24/machine-learning-jupyternotebook/blob/main/Projects/Capstone.ipynb"> capstone project  </a> </h3>
+
 
 </tr></table> 
 <!-- END -->
