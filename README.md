@@ -118,7 +118,7 @@ editor:
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-vivaldi">
-  <img style="display: block; margin: 0 auto;"
+  <img style="display: block; margin: 0 auto;" width="250"
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-vivaldi&theme=onedark" />
 </a>
 </p>
@@ -133,7 +133,7 @@ editor:
 
 <p align="center">
 <a href="https://github.com/aharo24/universal-markdown-linker">
-  <img style="display: block; margin: 0 auto;" 
+  <img style="display: block; margin: 0 auto;" width="250"
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=universal-markdown-linker&theme=onedark" />
 </a>
 </p>
