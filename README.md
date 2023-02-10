@@ -87,7 +87,8 @@ editor:
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-alacritty">
-  <img style="display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=onedark" />
+  <img style="display: block; margin: 0 auto;" height=100
+   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-alacritty&theme=onedark" />
 </a>
 </p>
 
@@ -98,7 +99,7 @@ editor:
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-starship">
-  <img style="display: block; margin: 0 auto;" 
+  <img style="display: block; margin: 0 auto;" height=150
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-starship&theme=onedark" />
 </a>
 </p>
@@ -114,7 +115,7 @@ editor:
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-vivaldi">
-  <img style="display: block; margin: 0 auto;" 
+  <img style="display: block; margin: 0 auto;"height=200 
   src="https://github-readme-stats.vercel.app/api/pin/?username=aharo24&repo=dot-vivaldi&theme=onedark" />
 </a>
 </p>
