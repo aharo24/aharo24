@@ -157,6 +157,7 @@ editor:
 
 
 <!-- START -->
+<table><tr><td valign="top" >
 <h2 align="center"><a href="https://github.com/aharo24"> machine learning </a> </h2>
 
 ---
@@ -171,6 +172,7 @@ editor:
 ---
 ### predict value of home project 
 
+</</tr></table> 
 <!-- END -->
 
 
