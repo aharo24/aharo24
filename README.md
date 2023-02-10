@@ -142,7 +142,6 @@ editor:
 
 --- 
   <h3 align="center"> <a href="https://github.com/aharo24/opensource#dotfiles"> slowly merging all dotfiles/configs </a> </h3>
-  <br/>
 </tr></tr></table> 
 <!-- END -->
 
@@ -157,6 +156,7 @@ editor:
 
 
 <!-- START -->
+<br/>
 <table><tr><td valign="top" width="50%">
 <h2 align="center"><a href="https://github.com/aharo24"> machine learning </a> </h2>
 
