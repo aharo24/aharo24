@@ -93,7 +93,7 @@ editor:
 </a>
 </p>
 
-
+---
 <h3 align="center"> <a href="https://github.com/aharo24/dot-starship"> starship ✅ </a> </h3>
 
 - I have put in substantial effort into creating a unique and visually appealing starship configuration. My research into color theory and eye-stimulating hues has helped me to carefully select a color scheme, as well as handpick icons that complement the overall design.
@@ -111,7 +111,8 @@ editor:
 
 - My Vivaldi configuration includes a comprehensive list of custom hotkeys, designed to make your browsing experience more efficient and intuitive. I have included shortcuts for a wide range of actions, including panel navigation, window management, dev tools, and tabs. I have also taken the time to carefully choose color combinations that will not strain your eyes during long coding or document editing sessions.
 
-- [official vivadi theme contribution](https://themes.vivaldi.net/themes/nV6vpPxDvdN)
+- ### [official vivadi theme contribution](https://themes.vivaldi.net/themes/nV6vpPxDvdN)
+
 
 <p align="center">
 <a href="https://github.com/aharo24/dot-vivaldi">
